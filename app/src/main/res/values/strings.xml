@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProVend</string>
+    <string name="product_loading_error_message">Something went wrong. Please try again later.</string>
+    <string name="retry">Retry</string>
+    <string name="clear">Clear</string>
+    <string name="search">Search</string>
+</resources>
